@@ -8,6 +8,9 @@ How does your project solve the problem? Are there actions your program would do
 List major parts of your program (what the user can do or see).
 # Technical Challenges + Future Plans  
 What was hard to figure out? What do you wish you could add if you had more time or more experience?
+```
+# insert code
+```
 # Project Timeline
 Briefly explain how you broke this project up across days, weeks, or months.
 # Tools and Resources Used  
